@@ -30,8 +30,9 @@
     "javascript"
   ],
   "dependencies": {
-    "react-native-vector-icons": "^7.0.0",
-    "prop-types": "^15.7.2"
+    "deprecated-react-native-prop-types": "^4.0.0",
+    "prop-types": "^15.7.2",
+    "react-native-vector-icons": "^7.0.0"
   },
   "author": "Hossein Zare",
   "license": "MIT",

@@ -7,10 +7,9 @@ import {
     ScrollView,
     Platform,
     TextInput,
-    ViewPropTypes
 } from 'react-native';
 import PropTypes from 'prop-types';
-
+import { ViewPropTypes } from 'deprecated-react-native-prop-types'
 // Icon
 import Feather from 'react-native-vector-icons/Feather';
 Feather.loadFont();
